@@ -14,7 +14,7 @@ export default class HomeScreen extends React.Component {
             <View style={styles.container}>
         <Image
           style={{ width:"100%", height: 300 }}
-          source={require('./assets/images/login-logo.png')}
+          source={require('./assets/Login_Logo.png')}
           resizeMode="contain"
         />
 
